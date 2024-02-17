@@ -1,3 +1,4 @@
 #FORMAT!
 
-Name | Roll No. | Public IP
+Aditya Kumar Singh | B23031 | 14.139.34.151
+
