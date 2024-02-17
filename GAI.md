@@ -1,6 +1,6 @@
 # GAI: Generative Alien Image
 
-## Aliens Reunion: Strengthen you team to Victory!
+## Aliens Reunion: Strengthen your team to Victory!
 
 ### Link: [DALL-E 2](https://openai.com/dall-e-2) 
 
