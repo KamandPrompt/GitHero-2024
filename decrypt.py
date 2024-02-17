@@ -1,4 +1,4 @@
-Encryption = 'iX41?o'
+Encryption = 'nu%uquB76'
 
 import random
 import string
