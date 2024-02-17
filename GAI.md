@@ -4,7 +4,7 @@
 
 ### Link: [DALL-E 2](https://openai.com/dall-e-2) 
 
-<img width="1252" alt="Screenshot 2023-03-18 at 6 17 43 PM" src="https://raw.githubusercontent.com/nandan645/GitHeroMedia/main/OpenAI-DALL-E-2.jpg">
+<img width="1252" alt="Screenshot 2023-03-18 at 6 17 43 PM" src="Screenshot 2024-02-17 205253.png">
 
 DALL·E 2 is an AI system that creates realistic images and art from natural language descriptions. It can generate original visuals by combining concepts, attributes, and styles based on textual prompts. You can give in desciption of what type of image you want to generate.
 Let’s delve into the fascinating world of DALL·E 2:
