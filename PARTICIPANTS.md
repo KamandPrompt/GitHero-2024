@@ -1,3 +1,1 @@
-#FORMAT!
-
-Name | Roll No. | Public IP
+Abhay Pratap Singh | B23421 | 14.139.34.101
