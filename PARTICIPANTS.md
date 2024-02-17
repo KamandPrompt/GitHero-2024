@@ -1,3 +1,2 @@
 #FORMAT!
-
-Name | Roll No. | Public IP
+Aarushi Garg | B23188 | 14.139.34.151
