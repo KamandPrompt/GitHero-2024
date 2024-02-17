@@ -1,3 +1,1 @@
-#FORMAT!
-
-Name | Roll No. | Public IP
+Divyansh Jain | B23397 | 14.139.34.151
