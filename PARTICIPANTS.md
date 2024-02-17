@@ -1,3 +1,3 @@
 #FORMAT!
 
-Name | Roll No. | Public IP
+Vinamra Garg | B23302 | 14.139.34.151
