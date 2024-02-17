@@ -15,12 +15,12 @@ BAR_LENGTH = 100
 BAR_HEIGHT = 10
 
 # Define Colors 
-WHITE = (255, 255, 255
+WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 RED = (255, 0, 0)
-GREEN = (0, 255, 0
+GREEN = (0, 255, 0)
 BLUE = (0, 0, 255)
-YELLOW = 255, 255, 0)
+YELLOW = (255, 255, 0)
 ###############################
 
 ###############################
@@ -36,7 +36,7 @@ font_name = pygame.font.match_font('arial')
 def main_menu():
     global screen
 
-    menu_song = pygame.mixer.music.load(path.join(sound_folder, "menu.ogg")
+    menu_song = pygame.mixer.music.load(path.join(sound_folder, "menu.ogg"))
     pygame.mixer.music.play(-1)
 
     title = pygame.image.load(path.join(img_dir, "main.png")).convert()
@@ -73,7 +73,7 @@ def draw_text(surf, text, size, x, y):
     font = pygame.font.Font(font_name, size)
     text_surface = font.render(text, True, WHITE)    
     text_rect = text_surface.get_rect()
-    text_rect.midtop = (x, y
+    text_rect.midtop = (x, y)
     surf.blit(text_surface, text_rect)
 
 
@@ -426,7 +426,7 @@ while running:
     hits = pygame.sprite.groupcollide(mobs, bullets, True, True)
 
     for hit in hits:
-        # score += 50 - hit.radius    ## gives us different scores for hitting big and small meteors
+        score += 50 - hit.radius    ## gives us different scores for hitting big and small meteors
         random.choice(expl_sounds).play()
 
         expl = Explosion(hit.rect.center, 'lg')
