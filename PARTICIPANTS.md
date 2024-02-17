@@ -1,3 +1,3 @@
 #FORMAT!
 
-Name | Roll No. | Public IP
+Aarushi | B23188 | 14.139.34.101
