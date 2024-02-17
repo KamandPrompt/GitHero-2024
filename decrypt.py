@@ -1,4 +1,4 @@
-Encryption = 'Enter_Your_Encrypted_Text_Here'
+Encryption = '~H0z5G_'
 
 import random
 import string
